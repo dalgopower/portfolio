@@ -23,11 +23,15 @@ Senior Software Developer
 
 - Maintenance of annotation tool web application
 
+> Node.js, Typescript, Docker, React.js, Redis
+
 **Karma**  
 *Jul. 2020 - Oct. 2020*  
 Senior Software Developer  
 
 - Maintenance of messenger servers
+
+> Node.js, Typescript, Docker, RabbitMQ, MySQL, Redis
 
 **IntelliQuant Inc.**  
 *Oct. 2016 - Jun. 2020*  
@@ -40,11 +44,15 @@ Senior Software Developer
 - Developed an administrative tool site for monitoring all services (IQAdmin)
 - Monitored services daily
 
+> Node.js, Typescript, Scala, Play framework, Golang Websocket, RabbitMQ, MySQL, SQLite, Redis
+
 **Siemens Ultrasound Systems Korea (Siemens Healthineers)**  
 *Apr. 2016 - Sep. 2016*  
 Junior Software Engineer  
 
 - Bug fixes on softwares of ultrasound machines
+
+> C++, C#
 
 **Wescan Inc. (currently, Klounge)**  
 *Mar. 2013 - Oct. 2015*  
@@ -53,6 +61,12 @@ Junior Software Developer
 - Developed a PC/Mac virtual meeting application (Wenote)
 - Developed a recording Android app (Wenote Recorder)
 
+> C++, QT5, boost, Java, Android, SQLite
+
+# Repositories
+
+Quick memo  
+https://github.com/dalgopower/quickmemo_graphql
 
 
 # Education
@@ -84,6 +98,8 @@ MySQL SQLite Redis
 GraphQL
 
 RabbitMQ
+
+Docker
 
 
 
