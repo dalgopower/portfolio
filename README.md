@@ -18,6 +18,7 @@ Contact: comgate3@hotmail.com
 # Experience
 
 **Annotation AI**  
+https://www.annotation-ai.com/  
 *Nov. 2020 - Mar. 2021*  
 Senior Software Developer
 
@@ -25,15 +26,17 @@ Senior Software Developer
 
 > Node.js, Typescript, Docker, React.js, Redis
 
-**Karma**  
+**Karma Lab**  
+http://www.karmalab.me/  
 *Jul. 2020 - Oct. 2020*  
 Senior Software Developer  
 
-- Maintenance of messenger servers
+- Maintenance of Karma messenger servers
 
 > Node.js, Typescript, Docker, RabbitMQ, MySQL, Redis
 
 **IntelliQuant Inc.**  
+https://www.intelliquant.co.kr
 *Oct. 2016 - Jun. 2020*  
 Senior Software Developer  
 
@@ -55,6 +58,7 @@ Junior Software Engineer
 > C++, C#
 
 **Wescan Inc. (currently, Klounge)**  
+http://www.klounges.com/  
 *Mar. 2013 - Oct. 2015*  
 Junior Software Developer  
 
